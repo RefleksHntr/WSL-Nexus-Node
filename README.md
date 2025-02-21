@@ -1,1 +1,1 @@
-# WSL Nexus Node
+Nexus Node Project
